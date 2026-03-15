@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip":HENIL22612.aternos.me:22273
+    "ip":HENIL22612.aternos,
     "port":  22273,
     "version": "1.21.11",
     "try-creative": false
